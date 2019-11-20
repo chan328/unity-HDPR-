@@ -68,7 +68,7 @@ profile을 설정해서 투과되는 빛이 어떻게 표현되느냐를 정해�
  3. IrideScene : 무지개 빛 -> 실시간으로 물이 증발하면서 가시광선이 난반사를 일으켜 무지개 빛이 나타남 ex) 기름<br>
  4. Specualr color : 헤드라이트와 같은 재질에 빛이 향하고 있을때 재질의 색 결정?<br>
  5. Decal : object에 decal을 사용하는가<br>
- 6. Displacement mode : Vertax, pixel 두가지를 제공. Height map을 기반으로 진폭, minmax 항목으로 버텍스의 위치를 조정<br>
+ 6. Displacement mode : Vertex, pixel 두가지를 제공. Height map을 기반으로 진폭, minmax 항목으로 버텍스의 위치를 조정<br>
  7. Lit tessellation : 실제 triangle을 늘려서 Rendering하는 기술, 실제로 높이를 가지는 triangle에 생성된다<br>
  8. Vertex Animation : Enable wind - 바람에 흩날리는 효과를 위한 항목.<br>
  9. Clear coat : 재질의 겉 표면에 코팅한 느낌을 표현한다.<br>
